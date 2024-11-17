@@ -1,4 +1,4 @@
-# DO IT!
+#  Do It!  - Set a Goal, Stick to It! or Pay the Price 💸! Pay with native NEAR, ETH & Dogecoin, powered by NEAR Chain Abstraction!
 
 
 ## backend
